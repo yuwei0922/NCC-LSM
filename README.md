@@ -1,5 +1,4 @@
-# WHURS-DP
-Homework of Course Digital Photogrammetry in Wuhan University
+# NCC+LSM in Digital Photogrammetry
 
 ## Image Matching Based on Normalized Correlation Coefficient (NCC) and Least Squares Matching (LSM)
 
