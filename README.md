@@ -1,4 +1,4 @@
-# NCC+LSM in Digital Photogrammetry
+# NCC+LSM
 
 ## Image Matching Based on Normalized Correlation Coefficient (NCC) and Least Squares Matching (LSM)
 
